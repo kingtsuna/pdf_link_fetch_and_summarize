@@ -122,7 +122,7 @@ if st.button("Analyze Links"):
                 if response_text[0] != '0':
                     text_with_required_data += (response_text + '\n\n')
 
-                time.sleep(2)
+                time.sleep(3)
                 st.text(response_text)
             else:
                 st.warning(f"Could not extract text from {pdf_url}")
