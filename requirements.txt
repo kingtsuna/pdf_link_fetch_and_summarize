@@ -1,0 +1,9 @@
+requests
+newspaper3k
+google-generativeai
+pandas
+beautifulsoup4
+PyPDF2
+nltk
+lxml[html_clean]
+lxml_html_clean
